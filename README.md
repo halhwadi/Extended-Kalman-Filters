@@ -3,7 +3,7 @@
 
 <b> SLAM Process by using (IMU,GPS and LIDAR):
   <br></br>
-![](https://github.com/halhwadi/Extended-Kalman-Filters-SLAM/blob/main/IMU%20%2B%20GNSS%20%2B%20LIDAR.jpg)
+![](https://github.com/halhwadi/Extended-Kalman-Filters-SLAM/blob/main/EKF_IMU_GNSS_Lidar.jpg)
 <br></br>
 
 <b> Solution Steps</b>
